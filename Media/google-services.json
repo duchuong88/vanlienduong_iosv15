@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "28062564701",
+    "firebase_url": "https://van-lien-duong-default-rtdb.firebaseio.com",
+    "project_id": "van-lien-duong",
+    "storage_bucket": "van-lien-duong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28062564701:android:bdcc747b554afb177f68b4",
+        "android_client_info": {
+          "package_name": "vanlienduong.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAujmzoXS-s66Y2aSyGzQwsV-CW442xOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
